@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.appBar1 {
+  background-color: #61dafb !important;
+}
+
+
+.styleButton {
+  margin: 15px;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
